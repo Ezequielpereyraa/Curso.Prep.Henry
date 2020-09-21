@@ -1,0 +1,12 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables = Es un lugar donde se pueden almacenar datos, que luego se pueden usar para lo que uno lo necesite.
+
+	* Strings = estos son palabras o textos que van a estar dentro de comillas simples '' o dobles " ".
+
+  * Funciones (argumentos, `return`) = Las funciones son como una series de pasos a seguir que te llevan a la resolucion de algun problema, a estas se le pueden pasar o no argumentos que estos son datos necesarios para que la funcion pueda ejecturse, y para que nos devuelva un valor se utiliza la palbra return;
+
+
+  * Declaraciones `if` = Esta declaracion sirve para hacer una pregunta y dependiendo de su respuesta se ejecuta una u otra funcion, o como puede devolver un valor o no, o como puede finalizar algun processo que se este realizando.
+
+  * Valores booleanos (`true`, `false`) = Estos valores quieren decir verdadero o falso, esta se usa para evaluar si algo es verdadero o falso
