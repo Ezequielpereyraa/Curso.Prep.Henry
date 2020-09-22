@@ -1,0 +1,4 @@
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays = Es un grupo o una coleccion donde podemos guardar cualquier tipo de datos, que estos van a estar separados por coma(,), que luego vamos a poder usar cualquier dato que este dentro de ese grupo.
