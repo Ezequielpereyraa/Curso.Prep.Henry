@@ -1,0 +1,56 @@
+html {
+  font-size: 60%;
+  box-sizing: content-box;
+}
+body {
+  max-width: 100rem;
+  margin: 1rem auto;
+  border: 1px solid #ccc;
+  box-shadow: 0 0.5rem 0.4rem rgba(0, 0, 0, 0.5);
+  box-sizing: inherit;
+  display: flex;
+  background-color: rgb(250, 248, 248);
+  line-height: 1.6;
+}
+header {
+  text-align: center;
+  padding: 4rem;
+  background: #45526e;
+  color: aliceblue;
+}
+.encabezado {
+  text-transform: uppercase;
+  font-size: 2.4rem;
+  color: rgb(238, 223, 223);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.encabezado__foto {
+  height: 20rem;
+  box-shadow: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.5);
+}
+.contendidoPrincipal {
+  padding: 0 2rem;
+}
+.titulo {
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  background-color: rgb(238, 222, 222);
+  padding: 1rem;
+  color: #45526e;
+}
+p {
+  margin: 1rem;
+}
+p,
+li {
+  font-size: 1.2rem;
+}
+ul {
+  display: flex;
+}
+li {
+  margin: 0 1rem;
+}
+p:not(:last-child) {
+  margin-bottom: 1.2rem;
+}
