@@ -2,5 +2,5 @@
 
 * `for`= Sirve para repetir alguna accion tantas veces le indiquemos.
 
-* `&&`, `||`, `!` = Estos simbolos nos van a devolver resultados luego de ver si se cumple o no la condicion, && AND quiere decir "Y" y esta para va a devolver verdadero si los dos expresiones son verdadera, || OR o tambien quiere decir "O" y este devolvera verdadero si una sola se cumple, y el  ! NOT, quiere decir distintos y esta devolvera verdadero cuando son distintos.
+* `&&`, `||`, `!` = Estos simbolos nos van a devolver resultados luego de ver si se cumple o no la condicion, && AND quiere decir "Y" y esta para va a devolver verdadero si los dos expresiones son verdadera, || OR o tambien quiere decir "O" y este devolvera verdadero si una sola se cumple, y el  ! NOT, quiere decir distintos y esta devolvera verdadero cuando son distintos
 
