@@ -1,0 +1,11 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Objetos = Es un lugar donde se almacenan todas las propiedades de un objeto, por ejemplo un objeto puede ser un auto que tiene partes como por ejemplo el color, puertas, tipo.
+
+	* Propiedades = son nombres que le ponemos a un objeto para hacer referencia a las partes o características del mismo, por ejemplo creamos un objeto llamado auto, y sus propiedades van a ser color, tipo, modelo.
+
+	* Métodos = son funciones que van dentro del objeto, estas pueden mostrar o hacer algun tipo de accion segun los datos del objeto;
+
+  * Bucle `for…in` = Es una forma de ver todos los datos dentro de un objeto y es una forma para acceder a ellos.
+
+	* Notación de puntos vs notación de corchetes = La notación de punto la forma de escribirlo es mas sencillo y es literal, no se puede intercalar con variables ni recorrer un objeto, y con la notacion de corchetes si
